@@ -1,0 +1,69 @@
+{
+  "folder": "type_icons/paths",
+  "count": 9,
+  "images": [
+    {
+      "file": "elation.png",
+      "width": 512,
+      "height": 512,
+      "size_bytes": 42110,
+      "format": "PNG"
+    },
+    {
+      "file": "knight.png",
+      "width": 512,
+      "height": 512,
+      "size_bytes": 47256,
+      "format": "PNG"
+    },
+    {
+      "file": "mage.png",
+      "width": 512,
+      "height": 512,
+      "size_bytes": 45485,
+      "format": "PNG"
+    },
+    {
+      "file": "memory.png",
+      "width": 512,
+      "height": 512,
+      "size_bytes": 45261,
+      "format": "PNG"
+    },
+    {
+      "file": "priest.png",
+      "width": 512,
+      "height": 512,
+      "size_bytes": 73236,
+      "format": "PNG"
+    },
+    {
+      "file": "rogue.png",
+      "width": 512,
+      "height": 512,
+      "size_bytes": 40019,
+      "format": "PNG"
+    },
+    {
+      "file": "shaman.png",
+      "width": 512,
+      "height": 512,
+      "size_bytes": 52251,
+      "format": "PNG"
+    },
+    {
+      "file": "warlock.png",
+      "width": 512,
+      "height": 512,
+      "size_bytes": 54210,
+      "format": "PNG"
+    },
+    {
+      "file": "warrior.png",
+      "width": 512,
+      "height": 512,
+      "size_bytes": 35340,
+      "format": "PNG"
+    }
+  ]
+}

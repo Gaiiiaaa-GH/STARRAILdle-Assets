@@ -1,0 +1,55 @@
+{
+  "folder": "type_icons/elements",
+  "count": 7,
+  "images": [
+    {
+      "file": "fire.png",
+      "width": 256,
+      "height": 256,
+      "size_bytes": 45337,
+      "format": "PNG"
+    },
+    {
+      "file": "ice.png",
+      "width": 256,
+      "height": 256,
+      "size_bytes": 30263,
+      "format": "PNG"
+    },
+    {
+      "file": "imaginary.png",
+      "width": 256,
+      "height": 256,
+      "size_bytes": 32627,
+      "format": "PNG"
+    },
+    {
+      "file": "physical.png",
+      "width": 256,
+      "height": 256,
+      "size_bytes": 31197,
+      "format": "PNG"
+    },
+    {
+      "file": "quantum.png",
+      "width": 256,
+      "height": 256,
+      "size_bytes": 20831,
+      "format": "PNG"
+    },
+    {
+      "file": "thunder.png",
+      "width": 256,
+      "height": 256,
+      "size_bytes": 30678,
+      "format": "PNG"
+    },
+    {
+      "file": "wind.png",
+      "width": 256,
+      "height": 256,
+      "size_bytes": 63038,
+      "format": "PNG"
+    }
+  ]
+}

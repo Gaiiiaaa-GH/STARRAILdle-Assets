@@ -1,0 +1,664 @@
+{
+  "folder": "icons",
+  "count": 94,
+  "images": [
+    {
+      "file": "1001.png",
+      "width": 256,
+      "height": 256,
+      "size_bytes": 127363,
+      "format": "PNG"
+    },
+    {
+      "file": "1002.png",
+      "width": 256,
+      "height": 256,
+      "size_bytes": 100506,
+      "format": "PNG"
+    },
+    {
+      "file": "1003.png",
+      "width": 256,
+      "height": 256,
+      "size_bytes": 131024,
+      "format": "PNG"
+    },
+    {
+      "file": "1004.png",
+      "width": 256,
+      "height": 256,
+      "size_bytes": 103284,
+      "format": "PNG"
+    },
+    {
+      "file": "1005.png",
+      "width": 256,
+      "height": 256,
+      "size_bytes": 87654,
+      "format": "PNG"
+    },
+    {
+      "file": "1006.png",
+      "width": 256,
+      "height": 256,
+      "size_bytes": 147546,
+      "format": "PNG"
+    },
+    {
+      "file": "1008.png",
+      "width": 256,
+      "height": 256,
+      "size_bytes": 97627,
+      "format": "PNG"
+    },
+    {
+      "file": "1009.png",
+      "width": 256,
+      "height": 256,
+      "size_bytes": 94237,
+      "format": "PNG"
+    },
+    {
+      "file": "1013.png",
+      "width": 256,
+      "height": 256,
+      "size_bytes": 132142,
+      "format": "PNG"
+    },
+    {
+      "file": "1014.png",
+      "width": 256,
+      "height": 256,
+      "size_bytes": 106091,
+      "format": "PNG"
+    },
+    {
+      "file": "1015.png",
+      "width": 256,
+      "height": 256,
+      "size_bytes": 96338,
+      "format": "PNG"
+    },
+    {
+      "file": "1101.png",
+      "width": 256,
+      "height": 256,
+      "size_bytes": 133189,
+      "format": "PNG"
+    },
+    {
+      "file": "1102.png",
+      "width": 256,
+      "height": 256,
+      "size_bytes": 112062,
+      "format": "PNG"
+    },
+    {
+      "file": "1103.png",
+      "width": 256,
+      "height": 256,
+      "size_bytes": 124519,
+      "format": "PNG"
+    },
+    {
+      "file": "1104.png",
+      "width": 256,
+      "height": 256,
+      "size_bytes": 120757,
+      "format": "PNG"
+    },
+    {
+      "file": "1105.png",
+      "width": 256,
+      "height": 256,
+      "size_bytes": 108017,
+      "format": "PNG"
+    },
+    {
+      "file": "1106.png",
+      "width": 256,
+      "height": 256,
+      "size_bytes": 150465,
+      "format": "PNG"
+    },
+    {
+      "file": "1107.png",
+      "width": 256,
+      "height": 256,
+      "size_bytes": 119744,
+      "format": "PNG"
+    },
+    {
+      "file": "1108.png",
+      "width": 256,
+      "height": 256,
+      "size_bytes": 123250,
+      "format": "PNG"
+    },
+    {
+      "file": "1109.png",
+      "width": 256,
+      "height": 256,
+      "size_bytes": 134726,
+      "format": "PNG"
+    },
+    {
+      "file": "1110.png",
+      "width": 256,
+      "height": 256,
+      "size_bytes": 110804,
+      "format": "PNG"
+    },
+    {
+      "file": "1111.png",
+      "width": 256,
+      "height": 256,
+      "size_bytes": 117191,
+      "format": "PNG"
+    },
+    {
+      "file": "1112.png",
+      "width": 256,
+      "height": 256,
+      "size_bytes": 121226,
+      "format": "PNG"
+    },
+    {
+      "file": "1201.png",
+      "width": 256,
+      "height": 256,
+      "size_bytes": 118338,
+      "format": "PNG"
+    },
+    {
+      "file": "1202.png",
+      "width": 256,
+      "height": 256,
+      "size_bytes": 137533,
+      "format": "PNG"
+    },
+    {
+      "file": "1203.png",
+      "width": 256,
+      "height": 256,
+      "size_bytes": 124361,
+      "format": "PNG"
+    },
+    {
+      "file": "1204.png",
+      "width": 256,
+      "height": 256,
+      "size_bytes": 157048,
+      "format": "PNG"
+    },
+    {
+      "file": "1205.png",
+      "width": 256,
+      "height": 256,
+      "size_bytes": 97733,
+      "format": "PNG"
+    },
+    {
+      "file": "1206.png",
+      "width": 256,
+      "height": 256,
+      "size_bytes": 123910,
+      "format": "PNG"
+    },
+    {
+      "file": "1207.png",
+      "width": 256,
+      "height": 256,
+      "size_bytes": 120285,
+      "format": "PNG"
+    },
+    {
+      "file": "1208.png",
+      "width": 256,
+      "height": 256,
+      "size_bytes": 129515,
+      "format": "PNG"
+    },
+    {
+      "file": "1209.png",
+      "width": 256,
+      "height": 256,
+      "size_bytes": 114612,
+      "format": "PNG"
+    },
+    {
+      "file": "1210.png",
+      "width": 256,
+      "height": 256,
+      "size_bytes": 120314,
+      "format": "PNG"
+    },
+    {
+      "file": "1211.png",
+      "width": 256,
+      "height": 256,
+      "size_bytes": 136824,
+      "format": "PNG"
+    },
+    {
+      "file": "1212.png",
+      "width": 256,
+      "height": 256,
+      "size_bytes": 117004,
+      "format": "PNG"
+    },
+    {
+      "file": "1213.png",
+      "width": 256,
+      "height": 256,
+      "size_bytes": 90856,
+      "format": "PNG"
+    },
+    {
+      "file": "1214.png",
+      "width": 256,
+      "height": 256,
+      "size_bytes": 105278,
+      "format": "PNG"
+    },
+    {
+      "file": "1215.png",
+      "width": 256,
+      "height": 256,
+      "size_bytes": 100381,
+      "format": "PNG"
+    },
+    {
+      "file": "1217.png",
+      "width": 256,
+      "height": 256,
+      "size_bytes": 122540,
+      "format": "PNG"
+    },
+    {
+      "file": "1218.png",
+      "width": 256,
+      "height": 256,
+      "size_bytes": 113644,
+      "format": "PNG"
+    },
+    {
+      "file": "1220.png",
+      "width": 256,
+      "height": 256,
+      "size_bytes": 151828,
+      "format": "PNG"
+    },
+    {
+      "file": "1221.png",
+      "width": 256,
+      "height": 256,
+      "size_bytes": 126645,
+      "format": "PNG"
+    },
+    {
+      "file": "1222.png",
+      "width": 256,
+      "height": 256,
+      "size_bytes": 97635,
+      "format": "PNG"
+    },
+    {
+      "file": "1223.png",
+      "width": 256,
+      "height": 256,
+      "size_bytes": 116810,
+      "format": "PNG"
+    },
+    {
+      "file": "1224.png",
+      "width": 256,
+      "height": 256,
+      "size_bytes": 122936,
+      "format": "PNG"
+    },
+    {
+      "file": "1225.png",
+      "width": 256,
+      "height": 256,
+      "size_bytes": 131430,
+      "format": "PNG"
+    },
+    {
+      "file": "1301.png",
+      "width": 256,
+      "height": 256,
+      "size_bytes": 112963,
+      "format": "PNG"
+    },
+    {
+      "file": "1302.png",
+      "width": 256,
+      "height": 256,
+      "size_bytes": 118061,
+      "format": "PNG"
+    },
+    {
+      "file": "1303.png",
+      "width": 256,
+      "height": 256,
+      "size_bytes": 108509,
+      "format": "PNG"
+    },
+    {
+      "file": "1304.png",
+      "width": 256,
+      "height": 256,
+      "size_bytes": 116421,
+      "format": "PNG"
+    },
+    {
+      "file": "1304_waveflair.png",
+      "width": 256,
+      "height": 256,
+      "size_bytes": 98508,
+      "format": "PNG"
+    },
+    {
+      "file": "1305.png",
+      "width": 256,
+      "height": 256,
+      "size_bytes": 101943,
+      "format": "PNG"
+    },
+    {
+      "file": "1306.png",
+      "width": 256,
+      "height": 256,
+      "size_bytes": 129217,
+      "format": "PNG"
+    },
+    {
+      "file": "1307.png",
+      "width": 256,
+      "height": 256,
+      "size_bytes": 129252,
+      "format": "PNG"
+    },
+    {
+      "file": "1308.png",
+      "width": 256,
+      "height": 256,
+      "size_bytes": 139152,
+      "format": "PNG"
+    },
+    {
+      "file": "1309.png",
+      "width": 256,
+      "height": 256,
+      "size_bytes": 122736,
+      "format": "PNG"
+    },
+    {
+      "file": "1309_summeretto.png",
+      "width": 256,
+      "height": 256,
+      "size_bytes": 116954,
+      "format": "PNG"
+    },
+    {
+      "file": "1310.png",
+      "width": 256,
+      "height": 256,
+      "size_bytes": 151090,
+      "format": "PNG"
+    },
+    {
+      "file": "1312.png",
+      "width": 256,
+      "height": 256,
+      "size_bytes": 106603,
+      "format": "PNG"
+    },
+    {
+      "file": "1313.png",
+      "width": 256,
+      "height": 256,
+      "size_bytes": 140748,
+      "format": "PNG"
+    },
+    {
+      "file": "1314.png",
+      "width": 256,
+      "height": 256,
+      "size_bytes": 140023,
+      "format": "PNG"
+    },
+    {
+      "file": "1315.png",
+      "width": 256,
+      "height": 256,
+      "size_bytes": 123865,
+      "format": "PNG"
+    },
+    {
+      "file": "1317.png",
+      "width": 256,
+      "height": 256,
+      "size_bytes": 127213,
+      "format": "PNG"
+    },
+    {
+      "file": "1321.png",
+      "width": 256,
+      "height": 256,
+      "size_bytes": 119539,
+      "format": "PNG"
+    },
+    {
+      "file": "1401.png",
+      "width": 256,
+      "height": 256,
+      "size_bytes": 122316,
+      "format": "PNG"
+    },
+    {
+      "file": "1402.png",
+      "width": 256,
+      "height": 256,
+      "size_bytes": 116183,
+      "format": "PNG"
+    },
+    {
+      "file": "1403.png",
+      "width": 256,
+      "height": 256,
+      "size_bytes": 126126,
+      "format": "PNG"
+    },
+    {
+      "file": "1404.png",
+      "width": 256,
+      "height": 256,
+      "size_bytes": 114323,
+      "format": "PNG"
+    },
+    {
+      "file": "1405.png",
+      "width": 256,
+      "height": 256,
+      "size_bytes": 121316,
+      "format": "PNG"
+    },
+    {
+      "file": "1406.png",
+      "width": 256,
+      "height": 256,
+      "size_bytes": 135880,
+      "format": "PNG"
+    },
+    {
+      "file": "1407.png",
+      "width": 256,
+      "height": 256,
+      "size_bytes": 96294,
+      "format": "PNG"
+    },
+    {
+      "file": "1408.png",
+      "width": 256,
+      "height": 256,
+      "size_bytes": 100096,
+      "format": "PNG"
+    },
+    {
+      "file": "1409.png",
+      "width": 256,
+      "height": 256,
+      "size_bytes": 133674,
+      "format": "PNG"
+    },
+    {
+      "file": "1410.png",
+      "width": 256,
+      "height": 256,
+      "size_bytes": 109647,
+      "format": "PNG"
+    },
+    {
+      "file": "1412.png",
+      "width": 256,
+      "height": 256,
+      "size_bytes": 115209,
+      "format": "PNG"
+    },
+    {
+      "file": "1413.png",
+      "width": 256,
+      "height": 256,
+      "size_bytes": 105365,
+      "format": "PNG"
+    },
+    {
+      "file": "1414.png",
+      "width": 256,
+      "height": 256,
+      "size_bytes": 90642,
+      "format": "PNG"
+    },
+    {
+      "file": "1415.png",
+      "width": 256,
+      "height": 256,
+      "size_bytes": 146720,
+      "format": "PNG"
+    },
+    {
+      "file": "1501.png",
+      "width": 256,
+      "height": 256,
+      "size_bytes": 108742,
+      "format": "PNG"
+    },
+    {
+      "file": "1502.png",
+      "width": 256,
+      "height": 256,
+      "size_bytes": 122664,
+      "format": "PNG"
+    },
+    {
+      "file": "1504.png",
+      "width": 256,
+      "height": 256,
+      "size_bytes": 112955,
+      "format": "PNG"
+    },
+    {
+      "file": "1505.png",
+      "width": 256,
+      "height": 256,
+      "size_bytes": 118554,
+      "format": "PNG"
+    },
+    {
+      "file": "1506.png",
+      "width": 256,
+      "height": 256,
+      "size_bytes": 123944,
+      "format": "PNG"
+    },
+    {
+      "file": "1507.png",
+      "width": 256,
+      "height": 256,
+      "size_bytes": 114354,
+      "format": "PNG"
+    },
+    {
+      "file": "1508.png",
+      "width": 256,
+      "height": 256,
+      "size_bytes": 120776,
+      "format": "PNG"
+    },
+    {
+      "file": "1509.png",
+      "width": 256,
+      "height": 256,
+      "size_bytes": 93577,
+      "format": "PNG"
+    },
+    {
+      "file": "1510.png",
+      "width": 256,
+      "height": 256,
+      "size_bytes": 114837,
+      "format": "PNG"
+    },
+    {
+      "file": "1512.png",
+      "width": 256,
+      "height": 256,
+      "size_bytes": 116954,
+      "format": "PNG"
+    },
+    {
+      "file": "1513.png",
+      "width": 256,
+      "height": 256,
+      "size_bytes": 98508,
+      "format": "PNG"
+    },
+    {
+      "file": "8001.png",
+      "width": 256,
+      "height": 256,
+      "size_bytes": 99633,
+      "format": "PNG"
+    },
+    {
+      "file": "8003.png",
+      "width": 256,
+      "height": 256,
+      "size_bytes": 80507,
+      "format": "PNG"
+    },
+    {
+      "file": "8005.png",
+      "width": 256,
+      "height": 256,
+      "size_bytes": 116477,
+      "format": "PNG"
+    },
+    {
+      "file": "8007.png",
+      "width": 256,
+      "height": 256,
+      "size_bytes": 105599,
+      "format": "PNG"
+    },
+    {
+      "file": "8009.png",
+      "width": 256,
+      "height": 256,
+      "size_bytes": 90784,
+      "format": "PNG"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "folder": "type_icons/bosses",
+  "count": 9,
+  "images": [
+    {
+      "file": "110501.png",
+      "width": 128,
+      "height": 128,
+      "size_bytes": 32462,
+      "format": "PNG"
+    },
+    {
+      "file": "110502.png",
+      "width": 128,
+      "height": 128,
+      "size_bytes": 27470,
+      "format": "PNG"
+    },
+    {
+      "file": "110503.png",
+      "width": 128,
+      "height": 128,
+      "size_bytes": 33745,
+      "format": "PNG"
+    },
+    {
+      "file": "110504.png",
+      "width": 128,
+      "height": 128,
+      "size_bytes": 24163,
+      "format": "PNG"
+    },
+    {
+      "file": "110505.png",
+      "width": 128,
+      "height": 128,
+      "size_bytes": 33840,
+      "format": "PNG"
+    },
+    {
+      "file": "110506.png",
+      "width": 128,
+      "height": 128,
+      "size_bytes": 32541,
+      "format": "PNG"
+    },
+    {
+      "file": "110507.png",
+      "width": 128,
+      "height": 128,
+      "size_bytes": 30023,
+      "format": "PNG"
+    },
+    {
+      "file": "110508.png",
+      "width": 128,
+      "height": 128,
+      "size_bytes": 32724,
+      "format": "PNG"
+    },
+    {
+      "file": "110509.png",
+      "width": 128,
+      "height": 128,
+      "size_bytes": 27630,
+      "format": "PNG"
+    }
+  ]
+}
