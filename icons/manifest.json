@@ -1,6 +1,6 @@
 {
   "folder": "icons",
-  "count": 94,
+  "count": 92,
   "images": [
     {
       "file": "1001.png",
@@ -353,13 +353,6 @@
       "format": "PNG"
     },
     {
-      "file": "1304_waveflair.png",
-      "width": 256,
-      "height": 256,
-      "size_bytes": 98508,
-      "format": "PNG"
-    },
-    {
       "file": "1305.png",
       "width": 256,
       "height": 256,
@@ -392,13 +385,6 @@
       "width": 256,
       "height": 256,
       "size_bytes": 122736,
-      "format": "PNG"
-    },
-    {
-      "file": "1309_summeretto.png",
-      "width": 256,
-      "height": 256,
-      "size_bytes": 116954,
       "format": "PNG"
     },
     {
