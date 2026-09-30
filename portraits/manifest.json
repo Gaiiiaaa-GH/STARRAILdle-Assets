@@ -1,6 +1,6 @@
 {
   "folder": "portraits",
-  "count": 92,
+  "count": 93,
   "images": [
     {
       "file": "1001.webp",
@@ -546,6 +546,13 @@
       "width": 376,
       "height": 512,
       "size_bytes": 86198,
+      "format": "WEBP"
+    },
+    {
+      "file": "1503.webp",
+      "width": 376,
+      "height": 512,
+      "size_bytes": 98258,
       "format": "WEBP"
     },
     {

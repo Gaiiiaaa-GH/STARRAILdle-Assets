@@ -1,6 +1,6 @@
 {
   "folder": "skills",
-  "count": 460,
+  "count": 465,
   "images": [
     {
       "file": "1001_100101.png",
@@ -2730,6 +2730,41 @@
       "width": 128,
       "height": 128,
       "size_bytes": 11239,
+      "format": "PNG"
+    },
+    {
+      "file": "1503_150301.png",
+      "width": 128,
+      "height": 128,
+      "size_bytes": 9995,
+      "format": "PNG"
+    },
+    {
+      "file": "1503_150302.png",
+      "width": 128,
+      "height": 128,
+      "size_bytes": 12832,
+      "format": "PNG"
+    },
+    {
+      "file": "1503_150303.png",
+      "width": 128,
+      "height": 128,
+      "size_bytes": 11705,
+      "format": "PNG"
+    },
+    {
+      "file": "1503_150304.png",
+      "width": 128,
+      "height": 128,
+      "size_bytes": 13905,
+      "format": "PNG"
+    },
+    {
+      "file": "1503_150307.png",
+      "width": 128,
+      "height": 128,
+      "size_bytes": 11249,
       "format": "PNG"
     },
     {

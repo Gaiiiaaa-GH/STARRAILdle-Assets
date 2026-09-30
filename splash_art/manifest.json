@@ -1,6 +1,6 @@
 {
   "folder": "splash_art",
-  "count": 92,
+  "count": 93,
   "images": [
     {
       "file": "1001.webp",
@@ -546,6 +546,13 @@
       "width": 1200,
       "height": 1200,
       "size_bytes": 316554,
+      "format": "WEBP"
+    },
+    {
+      "file": "1503.webp",
+      "width": 1200,
+      "height": 1200,
+      "size_bytes": 349940,
       "format": "WEBP"
     },
     {

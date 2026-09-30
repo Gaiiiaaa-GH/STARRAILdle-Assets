@@ -1,6 +1,6 @@
 {
   "folder": "icons",
-  "count": 92,
+  "count": 93,
   "images": [
     {
       "file": "1001.png",
@@ -546,6 +546,13 @@
       "width": 256,
       "height": 256,
       "size_bytes": 122664,
+      "format": "PNG"
+    },
+    {
+      "file": "1503.png",
+      "width": 256,
+      "height": 256,
+      "size_bytes": 133340,
       "format": "PNG"
     },
     {
